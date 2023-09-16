@@ -1,5 +1,6 @@
 # PRACTICA_1_UNIDAD2_WEB_III
-###Requisitos funcionales
+
+##Requisitos funcionales
 # Requisitos Funcionales - Registro de Datos Académicos
 ## Registro de Estudiantes
 
